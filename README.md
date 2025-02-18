@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jabbervik
-- 👀 I’m interested in become a coder
+- 👀 I’m interested in become a QA Engineer
 - 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on supportive colleagues in education
 - 📫 How to reach me WhatsApp, Telegram @jabbervik
